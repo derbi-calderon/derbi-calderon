@@ -33,7 +33,7 @@ Currently in 4th year; pursuing Bachelors of Science in Computer Science at [UNL
 
 ##  Connect with Me 😇
 
-[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/derbi-calderon-42bb43135/)  [![Gmail Badge](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:derbi.e.calderon@gmail.com)   
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/derbi-calderon-42bb43135/)  [![Gmail Badge](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:derbi.e.calderon@gmail.com@gmail.com)   
 
 
 
