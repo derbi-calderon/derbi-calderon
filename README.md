@@ -1,3 +1,1 @@
-<p align="center>
-          <h1> Hi, Welcome </h1>
-          </p>
+<h1 align="center"> Hi, Welcome </h1>
