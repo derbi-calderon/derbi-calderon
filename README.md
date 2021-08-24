@@ -1,7 +1,7 @@
 <h1 align="center"> Hi, Welcome </h1>
 
 
-I am Derbi Calderon 
+My name is Derbi Calderon, but people call me... Derbi. 
 <img  height="200" src="chess-2952457.svg" alt="cool" align="right"> 
 
 <br>
@@ -16,6 +16,7 @@ Computer Scientist | Software Engineer | Student
 
 
 ## About Me :smiley:
+See my SoloLearn Certificates [Here](https://github.com/loveLight-247/Sololearn-Certificates).
 
 Currently in 4th year; pursuing Bachelors of Science in Computer Science at [UNLV](https://www.unlv.edu/degree/bs-computer-science). My objective is to use my computer science skills and past work experience to improve end users' experience. 
 
