@@ -1,7 +1,7 @@
 <h1 align="center"> Hi, Welcome </h1>
 
 
-My name is Derbi Calderon, but people call me... Derbi. 
+My name is Derbi Calderon.
 <img  height="200" src="chess-2952457.svg" alt="cool" align="right"> 
 
 <br>
