@@ -16,7 +16,7 @@ Computer Scientist | Software Engineer | Student
 
 
 ## About Me :smiley:
-See my SoloLearn Certificates [Here](https://github.com/loveLight-247/Sololearn-Certificates).
+See my SoloLearn Certificates [Here](https://github.com/derbi-calderon/Sololearn-Certificates).
 
 Currently in 4th year; pursuing Bachelors of Science in Computer Science at [UNLV](https://www.unlv.edu/degree/bs-computer-science). My objective is to use my computer science skills and past work experience to improve end users' experience. 
 
@@ -35,7 +35,7 @@ Currently in 4th year; pursuing Bachelors of Science in Computer Science at [UNL
 
 ##  Connect with Me 😇
 
-[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/derbi-calderon-42bb43135/)  [![Gmail Badge](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:derbi.e.calderon@gmail.com@gmail.com)   
+[![Gmail Badge](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:derbi.e.calderon@gmail.com@gmail.com)   
 
 
 
